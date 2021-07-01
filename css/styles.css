@@ -149,6 +149,11 @@ h3 a:hover {
   margin-top: 50px;
 }
 
+.card-footer p {
+  text-align: left;
+  font-size: 14px;
+}
+
 /* Bottom Container Section */
 
 .bottom-container {
