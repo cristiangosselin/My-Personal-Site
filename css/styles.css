@@ -58,6 +58,10 @@ h3 a:hover {
   opacity: 0.6;
 }
 
+.fb {
+  font-weight: bold;
+}
+
 /* Top Container Section */
 
 .top-container {
@@ -81,7 +85,6 @@ h3 a:hover {
   left: 250px;
   bottom: 300px;
 }
-
 
 /* Middle Container Section */
 
@@ -169,9 +172,11 @@ h3 a:hover {
 
 /* Media Queries */
 
-
 @media (max-width: 768px) and (min-width: 615px) {
-  .intro, .skill-row, .row, .contact-message {
+  .intro,
+  .skill-row,
+  .row,
+  .contact-message {
     width: 70%;
   }
 
@@ -185,7 +190,10 @@ h3 a:hover {
 }
 
 @media (max-width: 614px) {
-  .intro, .skill-row, .row, .contact-message {
+  .intro,
+  .skill-row,
+  .row,
+  .contact-message {
     width: 90%;
   }
 
@@ -208,13 +216,4 @@ h3 a:hover {
   h2 {
     font-size: 2rem;
   }
-
-
-  
-  
 }
-
-
-
-
-
